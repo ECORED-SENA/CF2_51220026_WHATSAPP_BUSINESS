@@ -5,15 +5,22 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Titulo de primer nivel
+      h1 Optimización en motores de búsqueda
+
+
+
+
+
 
 </template>
 
 <script>
 export default {
   name: 'Tema3',
+  components: {},
   data: () => ({
-    // variables de vue
+    indicadorTarjetaSlide: true,
+    indicadorTarjetaFlip: true,
   }),
   mounted() {
     this.$nextTick(() => {
@@ -25,5 +32,4 @@ export default {
   },
 }
 </script>
-
 <style lang="sass"></style>
