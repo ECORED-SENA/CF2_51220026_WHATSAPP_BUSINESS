@@ -40,7 +40,7 @@
 
     .row.mt-5.p-3(style="background: rgb(255,255,255);background: linear-gradient(90deg, rgba(255,255,255,1) 71%, rgba(203,242,238,1) 71%);")
       .col(style="place-self:center")
-        p.mb-0(data-aos="fade-up") Las piezas gráficas son el soporte desde donde se acoplan todos los planes de trabajo para dar a conocer información al cliente, una pieza gráfica es un post de Instagram o un estado de WhatsApp, es esa imagen que publican las empresas para hacer el llamado de los clientes y atraerlos a conocer un producto o servicio; ahora, la explicación de la pieza gráfica a detalle la hace el instructor en el siguiente recurso.
+        p.mb-0(data-aos="fade-up") Las piezas gráficas son el soporte desde donde se acoplan todos los planes de trabajo para dar a conocer información al cliente, una pieza gráfica es un #[em post] de #[em Instagram] o un estado de #[em WhatsApp], es esa imagen que publican las empresas para hacer el llamado de los clientes y atraerlos a conocer un producto o servicio; ahora, la explicación de la pieza gráfica a detalle la hace el instructor en el siguiente recurso.
       .col-auto(style="place-self:center")
         figure
           img(src="@/assets/curso/tema3/2.svg" data-aos="fade-right")
@@ -61,8 +61,8 @@
         figure
           img(src="@/assets/curso/tema3/3.png" data-aos="fade-right")
       .col-lg-8(style="place-self:center")
-        p(data-aos="fade-up") Las piezas gráficas son necesarias para todas las campañas publicitarias de WhatsApp o de cualquier plataforma y cada empresa se debe relacionar con su elaboración, sea bien contratando a un diseñador o logrando hacer sus propias piezas a partir de fotografías y recursos gráficos. 
-        p.mt-4(data-aos="fade-up") También se pueden diseñar las piezas gráficas con plantillas en aplicaciones como Canva o Crello entre otras, o desde un boceto en un software especializado de diseño que se llama Adobe Illustrator y para esto es necesario hacer primero un boceto a mano o tenerlo en la cabeza, luego tomar las fotografías que se requieran del producto o servicio e integrar todo en la aplicación. 
+        p(data-aos="fade-up") Las piezas gráficas son necesarias para todas las campañas publicitarias de #[em WhatsApp] o de cualquier plataforma y cada empresa se debe relacionar con su elaboración, sea bien contratando a un diseñador o logrando hacer sus propias piezas a partir de fotografías y recursos gráficos. 
+        p.mt-4(data-aos="fade-up") También se pueden diseñar las piezas gráficas con plantillas en aplicaciones como #[em Canva] o Crello entre otras, o desde un boceto en un #[em software] especializado de diseño que se llama Adobe Illustrator y para esto es necesario hacer primero un boceto a mano o tenerlo en la cabeza, luego tomar las fotografías que se requieran del producto o servicio e integrar todo en la aplicación. 
         p.mt-4(data-aos="fade-up") La aplicación de Adobe Illustrator es gratuita por 30 días, por si se quiere descargar en un computador. Para entrar en detalle de la elaboración de piezas, a través del siguiente video se presenta un completa explicación sobre la creación de una pieza gráfica.
 
     p.mt-5(data-aos="fade-up") #[strong Construcción de la pieza gráfica]

@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Análisis de datos estadísticos de la audiencia',
     descripcionCurso:
-      'WhatsApp Business es una herramienta interactiva diseñada para microempresarios, permite manejar un emprendimiento desde un dispositivo móvil o fijo brindándole un sinfín de posibilidades de comercialización, respuesta oportuna y fidelización de clientes a través de un óptimo servicio o producto.',
+      '<em>WhatsApp Business</em> es una herramienta interactiva diseñada para microempresarios, permite manejar un emprendimiento desde un dispositivo móvil o fijo brindándole un sinfín de posibilidades de comercialización, respuesta oportuna y fidelización de clientes a través de un óptimo servicio o producto.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -229,7 +229,7 @@ export default {
     {
       termino: 'APP',
       significado:
-        'herramientas de software escritas en distintos lenguajes de programación (según el desarrollador que la programe) para teléfonos inteligentes -o smartphones- y tablets. Se caracterizan por ser útiles, dinámicas y fáciles de instalar y manejar.',
+        'herramientas de <em>software</em> escritas en distintos lenguajes de programación (según el desarrollador que la programe) para teléfonos inteligentes -o smartphones- y tablets. Se caracterizan por ser útiles, dinámicas y fáciles de instalar y manejar.',
     },
     {
       termino: 'Bases de datos',
@@ -289,7 +289,7 @@ export default {
     {
       termino: '<em>Target</em>',
       significado:
-        'concepto que tiene suma importancia dentro del área del marketing y la comunicación. Se tiene en cuenta dentro de los más diversos procedimientos. Por ejemplo, cuando se lleva a cabo la puesta en marcha de un proyecto se define el target al que va dirigido, sus servicios o productos, así como cuando se hace un estudio de mercado, un plan de marketing o un plan de negocio.',
+        'concepto que tiene suma importancia dentro del área del <em>marketing</em> y la comunicación. Se tiene en cuenta dentro de los más diversos procedimientos. Por ejemplo, cuando se lleva a cabo la puesta en marcha de un proyecto se define el target al que va dirigido, sus servicios o productos, así como cuando se hace un estudio de mercado, un plan de <em>marketing</em> o un plan de negocio.',
     },
     {
       termino: 'Normatividad',
@@ -385,50 +385,32 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Validación audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ludwyng Corzo García',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Producción audiovisual',
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Locución',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Producción audiovisual',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Revisión de guión audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: '',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Mayra Alejandra Alvarez',
+        cargo: 'Validación de contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },

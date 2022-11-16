@@ -8,7 +8,7 @@
           i.fas.fa-info
       h1 Introducción
 
-    p(data-aos="fade-up") La tendencia de las redes sociales se orienta, cada día más, a los grandes y diversos mercados empresariales; sin embargo, las pequeñas empresas han encontrado una serie de alternativas en pro de beneficiarse al momento de comercializar sus productos y servicios siendo la plataforma WhatsApp Business un estandarte de potenciar sus servicios, como lo puede ver a continuación:
+    p(data-aos="fade-up") La tendencia de las redes sociales se orienta, cada día más, a los grandes y diversos mercados empresariales; sin embargo, las pequeñas empresas han encontrado una serie de alternativas en pro de beneficiarse al momento de comercializar sus productos y servicios siendo la plataforma #[em WhatsApp Business] un estandarte de potenciar sus servicios, como lo puede ver a continuación:
     
     figure.mt-5
       .video

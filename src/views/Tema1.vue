@@ -19,7 +19,7 @@
     .row.mt-5
       .col-lg-8.mb-4.mb-lg-0(style="place-self:center;")
         p(data-aos="fade-up") Con la variedad de dispositivos móviles, el mercado ha encontrado un nicho para satisfacer las demandas y necesidades de servicios cada vez más personalizados enfocados a la mensajería directa, lo que abre un abanico grande para las empresas en formación y las que ya existen. 
-        p.mt-4(data-aos="fade-up") En la proliferación de mensajes la competencia de mensajes llamativos es cada vez mayor y por eso cada que se lanza un mensaje se debe mejorar lo que pasa con él y para ello, WhatsApp tiene varias formas de hacerlo; inicialmente se puede ver ese impacto desde las estadísticas generales de la aplicación viendo cada una de las opciones que se presentan en el siguiente video.
+        p.mt-4(data-aos="fade-up") En la proliferación de mensajes la competencia de mensajes llamativos es cada vez mayor y por eso cada que se lanza un mensaje se debe mejorar lo que pasa con él y para ello, #[em WhatsApp] tiene varias formas de hacerlo; inicialmente se puede ver ese impacto desde las estadísticas generales de la aplicación viendo cada una de las opciones que se presentan en el siguiente video.
       .col-lg-4(style="place-self:center")
         figure
           img(src="@/assets/curso/tema1/2.png" data-aos="fade-left")
@@ -39,7 +39,7 @@
         figure
           img(src="@/assets/curso/tema1/3.svg" data-aos="fade-right")
       .col(style="place-self:center")
-        p.mb-0(data-aos="fade-up") La medición de indicadores en WhatsApp Business es una tarea sencilla al alcance de cualquier persona, puesto que no se requiere salir de la aplicación, esto permite la interacción con cada uno de los clientes con el fin de promocionar diferentes productos de acuerdo con el nicho de mercado al cual este encaminado un negocio. En el siguiente recurso se puede dar cuenta de cuáles son los indicadores que marcan el cambio de la aplicación tradicional a la empresarial.
+        p.mb-0(data-aos="fade-up") La medición de indicadores en #[em WhatsApp Business] es una tarea sencilla al alcance de cualquier persona, puesto que no se requiere salir de la aplicación, esto permite la interacción con cada uno de los clientes con el fin de promocionar diferentes productos de acuerdo con el nicho de mercado al cual este encaminado un negocio. En el siguiente recurso se puede dar cuenta de cuáles son los indicadores que marcan el cambio de la aplicación tradicional a la empresarial.
 
     p.mt-5(data-aos="fade-up") #[strong Métricas Base]
 
@@ -68,7 +68,7 @@
         figure
           img(src="@/assets/curso/tema1/5.png" data-aos="fade-right")
 
-    p.mt-5(data-aos="fade-up") Así, la analítica web es utilizada para analizar y recopilar datos referentes a los comportamientos de los usuarios en los sitios web, optimizando y perfeccionando el entorno del marketing y sus estrategias; para esta acción es importante conocer dos modelos con los cuales se pueden medir los comportamientos, estos son:
+    p.mt-5(data-aos="fade-up") Así, la analítica web es utilizada para analizar y recopilar datos referentes a los comportamientos de los usuarios en los sitios web, optimizando y perfeccionando el entorno del #[em marketing] y sus estrategias; para esta acción es importante conocer dos modelos con los cuales se pueden medir los comportamientos, estos son:
 
     .row.mt-5.col-lg-10.m-auto
       .col-lg-6.mb-4.mb-lg-0
@@ -77,7 +77,7 @@
             figure.col-6.m-auto
               img(src="@/assets/curso/tema1/6.svg" data-aos="zoom-in-up" style="max-width:200px;max-height:200px;")
           .p-4.pt-4
-            p(data-aos="fade-up") #[strong Tags]
+            p(data-aos="fade-up") #[strong #[em Tags]]
             p.mt-3(data-aos="fade-up") Toman cada ingreso desde un PC como único visitante, esto impide identificar cuántas veces un buscador se ancla a una red. 
       .col-lg-6
         .h-100(style="background-color:#B2ECE6;border-bottom-right-radius:15px;border-bottom-left-radius:15px;")
@@ -85,7 +85,7 @@
             figure.col-6.m-auto
               img(src="@/assets/curso/tema1/7.svg" data-aos="zoom-in-up" style="max-width:200px;max-height:200px;")
           .p-4.pt-4
-            p(data-aos="fade-up") #[strong Logs]
+            p(data-aos="fade-up") #[strong #[em Logs]]
             p.mt-3(data-aos="fade-up") Son archivos que se pueden identificar tomando la dirección IP, lo cual lo hace único, ya que mide las veces que los buscadores tradicionales recorren las diferentes webs.
 
     p.mt-5(data-aos="fade-up") Con el fin analizar los datos recolectados, es importante contar con un programa especializado que ayude a procesar la información en tiempo real; los programas son muchos y cada aplicación tiene sus propias mediciones; #[strong además, se encuentran programas como los siguientes para hacer estas tareas.]
@@ -98,7 +98,7 @@
               img(src="@/assets/curso/tema1/8.svg" data-aos="zoom-in-up" style="max-width:120px;max-height:120px;")
             .m-auto.text-center.mt-4(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
-                h5.mb-0(data-aos="fade-up") Clickstream
+                h5.mb-0(data-aos="fade-up") #[em Clickstream]
           .p-4.pt-4.text-center
             p(data-aos="fade-up") Hace énfasis en la huella virtual que un usuario cualquiera deja al momento de navegar en internet. 
       .col-lg-4.mb-4.mb-lg-0
@@ -108,7 +108,7 @@
               img(src="@/assets/curso/tema1/9.svg" data-aos="zoom-in-up" style="max-width:120px;max-height:120px;")
             .m-auto.text-center.mt-4(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
-                h5.mb-0(data-aos="fade-up") Clickthrough
+                h5.mb-0(data-aos="fade-up") #[em Clickthrough]
           .p-4.pt-4.text-center
             p(data-aos="fade-up") Hace énfasis a una actividad que realiza un usuario vía internet, rastreando cada página y web que visita quedando grabada en el sistema.
       .col-lg-4
@@ -118,7 +118,7 @@
               img(src="@/assets/curso/tema1/10.svg" data-aos="zoom-in-up" style="max-width:120px;max-height:120px;")
             .m-auto.text-center.mt-4(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
-                h5.mb-0(data-aos="fade-up") ClickPath
+                h5.mb-0(data-aos="fade-up") #[em ClickPath]
           .p-4.pt-4.text-center
             p(data-aos="fade-up") Permite saber en qué páginas navega un usuario y con qué frecuencia, ideal para conocer la afluencia del público web y el comportamiento de un cliente al momento de hacer una compra.
     .row.mt-4.m-auto.justify-content-center
@@ -129,7 +129,7 @@
               img(src="@/assets/curso/tema1/11.svg" data-aos="zoom-in-up" style="max-width:120px;max-height:120px;")
             .m-auto.text-center.mt-4(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
-                h5.mb-0(data-aos="fade-up") CRO
+                h5.mb-0(data-aos="fade-up") #[em CRO]
           .p-4.pt-4.text-center
             p(data-aos="fade-up") Hace énfasis en procesos de mejora continua de todos los servicios de una web para optimizar la experiencia de un usuario.
       .col-lg-4.mb-4.mb-lg-0
@@ -139,9 +139,9 @@
               img(src="@/assets/curso/tema1/12.svg" data-aos="zoom-in-up" style="max-width:120px;max-height:120px;")
             .m-auto.text-center.mt-4(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
-                h5.mb-0(data-aos="fade-up") Test A/B
+                h5.mb-0(data-aos="fade-up") #[em Test] A/B
           .p-4.pt-4.text-center
-            p(data-aos="fade-up") Software que revisa objetivos en comparativas de dos hipótesis para validar cuál se comporta mejor con el mismo punto de partida.
+            p(data-aos="fade-up") #[em Software] que revisa objetivos en comparativas de dos hipótesis para validar cuál se comporta mejor con el mismo punto de partida.
 
     Separador.mt-5
 
@@ -154,7 +154,7 @@
           img(src="@/assets/curso/tema1/13.png" data-aos="fade-right")
       .col-lg-8(style="place-self:center")
         p(data-aos="fade-up") Para comprender a qué hace referencia, el primer paso es conocer qué es la publicidad digital en el contexto de #[em marketing]. La publicidad digital se enfoca en direccionar acciones o técnicas de #[em marketing] dirigidas a captar la atención de un usuario, las cuales se realizan gracias a canales digitales que presentan los indicadores de gestión con los cuales se puede evidenciar si la estrategia planteada está cumpliendo o no su objetivo.
-        p.mt-4(data-aos="fade-up") Ahora, se verá cuán importantes son los indicadores para el plan de marketing digital. Los indicadores, también conocidos como indicadores clave de rendimiento (KPI) que se revisan a continuación, permiten monitorear constantemente cada una de las operaciones realizadas como parte de una campaña publicitaria.
+        p.mt-4(data-aos="fade-up") Ahora, se verá cuán importantes son los indicadores para el plan de #[em marketing] digital. Los indicadores, también conocidos como indicadores clave de rendimiento (KPI) que se revisan a continuación, permiten monitorear constantemente cada una de las operaciones realizadas como parte de una campaña publicitaria.
         p.mt-4(data-aos="fade-up") #[strong(style="background-color:#FFD76A;padding:.2rem;") El indicador es un conjunto de métricas que se encargan de cuantificar los rendimientos de una operación.]
         p.mt-4(data-aos="fade-up") Es muy importante seleccionar los indicadores correctos para las mediciones, para esta tarea se recomienda trabajar con indicadores de tipo Smart que se caracterizan por los siguiente:
 
@@ -190,7 +190,7 @@
           p.mt-5(data-aos="fade-up") #[strong #[em Time bound] (basado en el tiempo)]
           p.mt-4(data-aos="fade-up") Se debe establecer un tiempo de gestión para saber si se cumple o no el indicador.
 
-    p.mt-5(data-aos="fade-up") Los indicadores de marketing digital, que son monitoreados, necesitan brindar información útil y precisa para la toma de decisiones. Con el fin de saber con claridad cuál es el rendimiento del equipo de marketing en todas las áreas. Al momento de realizar un seguimiento de resultados y de acuerdo con estos se podrá exigir un presupuesto adecuado para realizar nuevos estudios métricos de una organización.
+    p.mt-5(data-aos="fade-up") Los indicadores de #[em marketing] digital, que son monitoreados, necesitan brindar información útil y precisa para la toma de decisiones. Con el fin de saber con claridad cuál es el rendimiento del equipo de #[em marketing] en todas las áreas. Al momento de realizar un seguimiento de resultados y de acuerdo con estos se podrá exigir un presupuesto adecuado para realizar nuevos estudios métricos de una organización.
 
     Separador.mt-5
 
@@ -208,7 +208,7 @@
       figure
         img(src="@/assets/curso/tema1/20.svg" data-aos="zoom-in-up")
 
-    p.mt-5(data-aos="fade-up") Es importante tener claro cuáles son los indicadores que van a evidenciar el avance de la estrategia, porque un solo indicador puede hacer parte de varios objetivos y se genera confusión. Por ejemplo: una empresa quiere conocer si las personas ven sus productos en los estados de WhatsApp, el indicador para esto es la cantidad de vistas de los estados, pero si quiere revisar si la gente prefiere o no su producto, el indicador que debe manejar no puede ser cantidad de vistas, en ese caso se necesita de otro indicador que le ayude a identificar la preferencia o no.
+    p.mt-5(data-aos="fade-up") Es importante tener claro cuáles son los indicadores que van a evidenciar el avance de la estrategia, porque un solo indicador puede hacer parte de varios objetivos y se genera confusión. Por ejemplo: una empresa quiere conocer si las personas ven sus productos en los estados de #[em WhatsApp], el indicador para esto es la cantidad de vistas de los estados, pero si quiere revisar si la gente prefiere o no su producto, el indicador que debe manejar no puede ser cantidad de vistas, en ese caso se necesita de otro indicador que le ayude a identificar la preferencia o no.
 
     p.mt-4(data-aos="fade-up") #[strong Teniendo los conceptos claros de qué es un indicador, se mencionan algunos puntos importantes para tener en cuenta para la interpretación de datos.]
 
@@ -225,7 +225,7 @@
               .m-auto.text-center.mt-4(style="width:fit-content;")
                 .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                   p.mb-0 #[strong #[em(style="color:initial") Compare]]
-              p.mt-4.mb-0 Contraste los resultados obtenidos con los objetivos formulados y objetivos que deseaba lograr; es decir, si el objetivo es aumentar el número de visitas de la app WhatsApp en 60%, lo que debe comparar es el número de seguidores actuales a el número de seguidores del mes del mes pasado.
+              p.mt-4.mb-0 Contraste los resultados obtenidos con los objetivos formulados y objetivos que deseaba lograr; es decir, si el objetivo es aumentar el número de visitas de la app #[em WhatsApp] en 60%, lo que debe comparar es el número de seguidores actuales a el número de seguidores del mes del mes pasado.
       .col-xl-3.col-lg-6.mb-5.mb-lg-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -264,15 +264,15 @@
               .m-auto.text-center.mt-4(style="width:fit-content;")
                 .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                   p.mb-0 #[strong #[em(style="color:initial") Conozca]]
-              p.mt-4.mb-0 Tenga en cuenta la demografía de la audiencia, conozca y esté al tanto de el target o público objetivo la campaña de marketing preste mucha atención a los datos que muestran los indicadores.
+              p.mt-4.mb-0 Tenga en cuenta la demografía de la audiencia, conozca y esté al tanto de el target o público objetivo la campaña de #[em marketing] preste mucha atención a los datos que muestran los indicadores.
 
     Separador.mt-5
 
     .titulo-segundo
       h2#t_1_5 1.5 Análisis de métricas
 
-    p(data-aos="fade-up") Las métricas con mayor impacto e influencia en el entorno del marketing en redes sociales son los alcances que estas permiten en la interacción con los usuarios, es importante estar al tanto del alcance de cada publicación, ya sea un post, un reel o una story, pero, #[strong ¿qué significa puntualmente un alcance?: es el número de usuarios que han visto una publicación en una de plataformas de redes sociales.]
-    p.mt-4(data-aos="fade-up") El alcance es el número superior al de seguidores o suscriptores; por ejemplo, Instagram también cuenta las visitas que se realizan desde el área de explorar y las vistas alcanzadas por otros usuarios al compartir contenido, por lo que el rango suele ser más grande que la cantidad de seguidores o suscriptores. Así, existen dos tipos de alcance, a saber:
+    p(data-aos="fade-up") Las métricas con mayor impacto e influencia en el entorno del #[em marketing] en redes sociales son los alcances que estas permiten en la interacción con los usuarios, es importante estar al tanto del alcance de cada publicación, ya sea un #[em post], un #[em reel] o una #[em story], pero, #[strong ¿qué significa puntualmente un alcance?: es el número de usuarios que han visto una publicación en una de plataformas de redes sociales.]
+    p.mt-4(data-aos="fade-up") El alcance es el número superior al de seguidores o suscriptores; por ejemplo, #[em Instagram] también cuenta las visitas que se realizan desde el área de explorar y las vistas alcanzadas por otros usuarios al compartir contenido, por lo que el rango suele ser más grande que la cantidad de seguidores o suscriptores. Así, existen dos tipos de alcance, a saber:
 
     .row.col-xl-10.m-auto.mt-5
       .col-xl-6.mb-5.mb-xl-0
@@ -303,9 +303,9 @@
     .titulo-segundo
       h2#t_1_6 1.6 Desarrollo de campañas
 
-    p(data-aos="fade-up") Las campañas en línea son herramientas de marketing digital que consisten en una variedad de estrategias diseñadas para llegar a su público objetivo a través de mensajes y agregar valor a diferentes productos y servicios. Las campañas online generan acciones que contribuyen directamente a los objetivos que se proponga un emprendedor.
+    p(data-aos="fade-up") Las campañas en línea son herramientas de #[em marketing] digital que consisten en una variedad de estrategias diseñadas para llegar a su público objetivo a través de mensajes y agregar valor a diferentes productos y servicios. Las campañas #[em online] generan acciones que contribuyen directamente a los objetivos que se proponga un emprendedor.
 
-    p.mt-4(data-aos="fade-up") #[strong Las siguientes son las recomendaciones para hacer campañas de WhatsApp Business con buenos resultados, es necesario anotar que todo debe estar establecido a la hora de lanzar una campaña.]
+    p.mt-4(data-aos="fade-up") #[strong Las siguientes son las recomendaciones para hacer campañas de #[em WhatsApp Business] con buenos resultados, es necesario anotar que todo debe estar establecido a la hora de lanzar una campaña.]
 
     .row.mt-5
       .col-xl-4.col-lg-6.mb-4.mb-lg-0
@@ -319,7 +319,7 @@
           img(src="@/assets/curso/tema1/28.png")
           .p-4.pb-3.pt-2(style="background-color:#00C1AB;position:absolute;width:100%;bottom:0;")
             p #[strong Definir los objetivos]
-            p.mb-0 Defina los objetivos de la campaña de WhatsApp, sea coherente y organizado con los criterios de marketing.
+            p.mb-0 Defina los objetivos de la campaña de #[em WhatsApp], sea coherente y organizado con los criterios de #[em marketing].
       .col-xl-4.col-lg-6.mb-4.mb-lg-0
         figure.cont_tarjeta_1(data-aos="zoom-in-up" style="position:relative;")
           img(src="@/assets/curso/tema1/29.png")
@@ -345,8 +345,8 @@
             p #[strong Analizar los resultados]
             p Analice constantemente los resultados y a las personas que los están generando.
 
-    p.mt-5(data-aos="fade-up") #[em WhatsApp] hace énfasis en las interacciones personales, por lo que la confianza es primordial en el entorno online, por lo general, las personas no desean recibir mensajes y más si son de personas desconocidas, por ello, se debe tener presente que desarrollan actividades en una red social y un usuario promedio solo desea recibir información de personas cercanas y de su interés comercial o de servicios. 
-    p.mt-4(data-aos="fade-up") Así, la importancia de contar con estrategias que promuevan un entorno de confianza entre usted, su servicio o producto y los clientes, brinde la confianza suficiente para poder acceder fácilmente a los números de celular de clientes con el fin de desplegar la estrategia con mayor seguridad en el entorno comercial de WhatsApp Marketing.
+    p.mt-5(data-aos="fade-up") #[em WhatsApp] hace énfasis en las interacciones personales, por lo que la confianza es primordial en el entorno #[em online], por lo general, las personas no desean recibir mensajes y más si son de personas desconocidas, por ello, se debe tener presente que desarrollan actividades en una red social y un usuario promedio solo desea recibir información de personas cercanas y de su interés comercial o de servicios. 
+    p.mt-4(data-aos="fade-up") Así, la importancia de contar con estrategias que promuevan un entorno de confianza entre usted, su servicio o producto y los clientes, brinde la confianza suficiente para poder acceder fácilmente a los números de celular de clientes con el fin de desplegar la estrategia con mayor seguridad en el entorno comercial de #[em WhatsApp Marketing].
     p(data-aos="fade-up") #[strong Las recomendaciones en estas campañas son:]
 
     TabsA.color-acento-contenido.mt-5
@@ -357,7 +357,7 @@
             figure(data-aos="zoom-in-up" style="position:relative;")
               img(src="@/assets/curso/tema1/33.png")
           .col-lg-7(style="place-self:center")
-            p(data-aos="fade-up") Tenga un nivel de tráfico constante desde las redes sociales y website hacia su WhatsApp, para darle a conocer a los clientes que por intermedio de la app los podrá atender de forma oportuna y personalizada. 
+            p(data-aos="fade-up") Tenga un nivel de tráfico constante desde las redes sociales y #[em website] hacia su #[em WhatsApp], para darle a conocer a los clientes que por intermedio de la app los podrá atender de forma oportuna y personalizada. 
       .tarjeta.color-acento-botones--borde.p-4(titulo="Diseñar ofertas y promociones")
         .row
           .col-lg-5.mb-4.mb-lg-0(style="place-self:center")
@@ -365,7 +365,7 @@
             figure(data-aos="zoom-in-up" style="position:relative;")
               img(src="@/assets/curso/tema1/34.png")
           .col-lg-7(style="place-self:center")
-            p(data-aos="fade-up") Diseñe ofertas y promociones por intermedio de la app, para comunicarse con un cliente por este canal (WhatsApp).
+            p(data-aos="fade-up") Diseñe ofertas y promociones por intermedio de la app, para comunicarse con un cliente por este canal (#[em WhatsApp]).
       .tarjeta.color-acento-botones--borde.p-4(titulo="Determinar horarios")
         .row
           .col-lg-5.mb-4.mb-lg-0(style="place-self:center")
@@ -373,7 +373,7 @@
             figure(data-aos="zoom-in-up" style="position:relative;")
               img(src="@/assets/curso/tema1/35.png")
           .col-lg-7(style="place-self:center")
-            p(data-aos="fade-up") Determine horarios flexibles de atención por WhatsApp en los que respete a las personas y sus horarios familiares.
+            p(data-aos="fade-up") Determine horarios flexibles de atención por #[em WhatsApp] en los que respete a las personas y sus horarios familiares.
       .tarjeta.color-acento-botones--borde.p-4(titulo="Revisar las métricas")
         .row
           .col-lg-5.mb-4.mb-lg-0(style="place-self:center")
@@ -383,7 +383,7 @@
           .col-lg-7(style="place-self:center")
             p(data-aos="fade-up") Revise constantemente las métricas para saber si los mensajes están teniendo impacto.
 
-    p.mt-5(data-aos="fade-up") WhatsApp Business proporciona una sección de estadísticas, no siempre es práctica como le gustaría a un emprendedor o empresario. Por lo tanto, debe utilizar el correo electrónico y el análisis de marketing en redes sociales determinando aspectos de WhatsApp, por ejemplo:
+    p.mt-5(data-aos="fade-up") #[em WhatsApp Business] proporciona una sección de estadísticas, no siempre es práctica como le gustaría a un emprendedor o empresario. Por lo tanto, debe utilizar el correo electrónico y el análisis de #[em marketing] en redes sociales determinando aspectos de #[em WhatsApp], por ejemplo:
 
     .row.mt-5
       .row.m-0.col-lg-4.mb-4.mb-lg-0
@@ -409,7 +409,7 @@
           p.mb-0(data-aos="fade-up") En cuál horario el cliente es más receptivo para recibir publicaciones o correos electrónicos.
 
 
-    p.mt-5(data-aos="fade-up") No hay que olvidar que WhatsApp no es una aplicación de correos, así, se debe procurar que los mensajes enviados sean:
+    p.mt-5(data-aos="fade-up") No hay que olvidar que #[em WhatsApp] no es una aplicación de correos, así, se debe procurar que los mensajes enviados sean:
 
     SlyderF.mt-5(columnas="col-lg-6 col-xl-4")
       .tarjeta-avatar
@@ -461,14 +461,14 @@
                 h5.mb-0(data-aos="fade-up") Multimedia
             p.mt-4 Las personas preferimos información visual y audiovisual, incluya una imagen o algo que haga llamativo el mensaje junto con un llamado a la acción.
 
-    p.mt-5(data-aos="fade-up") Si se maneja un contenido adecuado e interesante podría facilitar que el material compartido sea viralizado de forma rápida y continua por parte del target, esto permitirá un alto porcentaje de seguidores y potenciales clientes. Por ello, se debe:
+    p.mt-5(data-aos="fade-up") Si se maneja un contenido adecuado e interesante podría facilitar que el material compartido sea viralizado de forma rápida y continua por parte del #[em target], esto permitirá un alto porcentaje de seguidores y potenciales clientes. Por ello, se debe:
 
     TabsB.color-acento-contenido.mt-5
       .py-4.py-md-5(titulo="Hacer del estado de <em>WhatsApp</em> un fuerte aliado" :icono="require('@/assets/curso/tema1/46.svg')")
         .row
           .col-lg-8.mb-4.mb-lg-0(style="place-self:center")
             h5 Hacer del estado de #[em WhatsApp] un fuerte aliado
-            p.mt-3 Como premisa evite que la campaña sea invasiva, por el contrario, procure que su estrategia de comunicación sea informativa, permita que los usuarios determinen en qué momento pueden establecer una conversación con usted de acuerdo con un interés por el servicio o producto ofertado. Como estrategia utilice los estados de WhatsApp, por intermedio de estos, usted puede publicar todo tipo de información pertinente, interactiva y audiovisual por un tiempo límite de 24 horas. 
+            p.mt-3 Como premisa evite que la campaña sea invasiva, por el contrario, procure que su estrategia de comunicación sea informativa, permita que los usuarios determinen en qué momento pueden establecer una conversación con usted de acuerdo con un interés por el servicio o producto ofertado. Como estrategia utilice los estados de #[em WhatsApp], por intermedio de estos, usted puede publicar todo tipo de información pertinente, interactiva y audiovisual por un tiempo límite de 24 horas. 
           .col-lg-4(style="place-self:center")
             figure
               img(src='@/assets/curso/tema1/47.png')
@@ -476,7 +476,7 @@
         .row
           .col-lg-8.mb-4.mb-lg-0(style="place-self:center")
             h5 Crear grupos de #[em WhatsApp] y listas de distribución
-            p.mt-3 Optimice la información de sus contactos, segméntela y comparta información relacionada a sus servicios o productos, esta es una gran estrategia de marketing en WhatsApp, recuerde que usted puede crear grupos de hasta 256 personas. Puede agregar contactos a diferentes grupos según el área de interés, siempre que los contactos estén de acuerdo. En cada grupo debe compartir información valiosa con la audiencia para la estrategia de negocio. Esto incluye, entre otros, el lanzamiento de nuevos productos, la invitación a eventos, el soporte técnico y el fomento y la generación de conversaciones colectivas sobre promociones.
+            p.mt-3 Optimice la información de sus contactos, segméntela y comparta información relacionada a sus servicios o productos, esta es una gran estrategia de #[em marketing] en #[em WhatsApp], recuerde que usted puede crear grupos de hasta 256 personas. Puede agregar contactos a diferentes grupos según el área de interés, siempre que los contactos estén de acuerdo. En cada grupo debe compartir información valiosa con la audiencia para la estrategia de negocio. Esto incluye, entre otros, el lanzamiento de nuevos productos, la invitación a eventos, el soporte técnico y el fomento y la generación de conversaciones colectivas sobre promociones.
           .col-lg-4(style="place-self:center")
             figure
               img(src='@/assets/curso/tema1/48.png')

@@ -37,6 +37,10 @@
 
     p.mt-5(data-aos="fade-up") La idea alcanza su verdadero valor y dimensión cuando puede ser apreciada por los demás y no antes. Existe una diferencia clara entre la propiedad intelectual y la propiedad industrial: la propiedad intelectual es individualista, personal, espiritualista; y la propiedad industrial es más comercial y se inclina a los contextos económicos.
 
+    .mt-5.mb-4(style="width:fit-content;")
+      .p-2(style="background-color:#FFD76A;")
+        h5.mb-0(data-aos="fade-up") Derechos intelectuales
+
     .row.p-3.cont_4_2.mt-5(style="position:relative;")
       .col-auto(style="place-self:center;position:relative")
         figure
@@ -248,7 +252,7 @@
         figure
           img(src="@/assets/curso/tema4/20.svg" data-aos="fade-right")
       .col(style="place-self:center;position:relative")
-        p.mb-0(data-aos="fade-up") En el caso de los derechos de autor, la ley protege al autor de la obra indicando los derechos que posee. En el sistema de derechos de autor, en cambio, la ley protege al autor en cuanto este realiza una serie de trámites legales a tal efecto. Posterior a esto se podrá hacer referencia al copyright, pero para proteger los derechos morales del autor mientras la obra se delega a los tribunales en el sistema de derechos morales. #[strong Los derechos de autor son de naturaleza individualista.]
+        p.mb-0(data-aos="fade-up") En el caso de los derechos de autor, la ley protege al autor de la obra indicando los derechos que posee. En el sistema de derechos de autor, en cambio, la ley protege al autor en cuanto este realiza una serie de trámites legales a tal efecto. Posterior a esto se podrá hacer referencia al #[em copyright], pero para proteger los derechos morales del autor mientras la obra se delega a los tribunales en el sistema de derechos morales. #[strong Los derechos de autor son de naturaleza individualista.]
 
     p.mt-5(data-aos="fade-up") #[strong Las características más importantes de los derechos de autor son:]
 
@@ -273,6 +277,15 @@
           figure.col-6.m-auto.justify-content-center.d-flex
             img(src="@/assets/curso/tema4/24.svg" data-aos="zoom-in-up" style="max-width:100px;max-height:100px;")
           p.mt-4(data-aos="fade-up") Los derechos de propiedad industrial que puedan existir sobre la obra.
+
+    .bloque-texto-a.color-primario.p-4.p-md-5.mt-5.col-lg-10.m-auto 
+      .row.m-0.align-items-center.justify-content-between
+        .col-lg-4.mb-4.mb-lg-0
+          h3.text-center.mb-0(data-aos="fade-up") ¿Qué tipo de obras protege el derecho de autor?
+        .col-lg-8
+          .bloque-texto-a__texto.p-5
+            p.mb-0(data-aos="fade-up") Literatura, música, teatro, danza, pintura u obra gráfica, escultura, caricatura e historieta, arquitectura, obra cinematográfica y audiovisual, programas de radio y televisión, programas de diseño, fotografía, artes aplicadas (gráficas o) con o sin texto, diseño textil), trabajo de edición.
+
 
     Separador.mt-5
 
@@ -307,7 +320,7 @@
           img(src="@/assets/curso/tema4/27.png" data-aos="fade-right")
       .col-lg-8(style="place-self:center")
         p(data-aos="fade-up") Con respecto a los datos personales del cliente (la persona que compró/adquirió el producto o recibió el servicio), estos podrán ser tratados para relacionarse y comunicarse con el cliente, o para hacer la entrega de un el producto, de igual forma también se proporcionará el servicio postventa y envío de recordatorios de citas y reuniones; además, las opciones de contacto son diversas. 
-        p.mt-4(data-aos="fade-up") De otra parte, por el solo motivo de ser cliente, no se le puede enviar publicidad y marketing sin consentimiento previo de él; sin embargo, solo se le podrá enviar los servicios ofertados o productos del sector en el que se desempeña la empresa o emprendimiento. Cuando se obtienen los datos de un cliente es importante tener un soporte de que en algún momento se le contactó para informarle que se le enviará publicidad o marketing del servicio, bien o producto; no importa cómo se le envíe la información comercial, siempre se le debe proporcionar una manera clara y fácil de optar por no recibir más anuncios. Además, la base de datos no se puede transferir a otra empresa.
+        p.mt-4(data-aos="fade-up") De otra parte, por el solo motivo de ser cliente, no se le puede enviar publicidad y #[em marketing] sin consentimiento previo de él; sin embargo, solo se le podrá enviar los servicios ofertados o productos del sector en el que se desempeña la empresa o emprendimiento. Cuando se obtienen los datos de un cliente es importante tener un soporte de que en algún momento se le contactó para informarle que se le enviará publicidad o #[em marketing] del servicio, bien o producto; no importa cómo se le envíe la información comercial, siempre se le debe proporcionar una manera clara y fácil de optar por no recibir más anuncios. Además, la base de datos no se puede transferir a otra empresa.
 
     p.mt-5(data-aos="fade-up") Para enviar anuncios de un producto o servicio a una persona vía SMS y que esta no sea un cliente, se debe obtener un consentimiento  explícito y claro; y de ser el caso probar más adelante que efectivamente se obtuvo de esa manera, por lo tanto, primero debe notificar y luego buscar el consentimiento.
     p.mt-4(data-aos="fade-up") Con esta información se da por concluida la parte teórica de este componente formativo. #[strong Gracias por su interés y se invita a seguir con la siguiente información que completa dicho componente.]

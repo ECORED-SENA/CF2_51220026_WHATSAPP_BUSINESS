@@ -10,8 +10,8 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Interpretación de métricas en WhatsApp Business
-        p.mb-4 Identificar la herramienta de comunicación WhatsApp Business como un apoyo para los emprendimientos y pequeñas y medianas empresas.
+          h2 Interpretación de métricas en #[em WhatsApp Business]
+        p.mb-4 Identificar la herramienta de comunicación #[em WhatsApp Business] como un apoyo para los emprendimientos y pequeñas y medianas empresas.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
