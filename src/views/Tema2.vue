@@ -20,7 +20,7 @@
 
     .row.col-lg-10.m-auto.mt-5.cont_2_2(style="position:relative;")
       .col-lg-8.p-4.mb-4.mb-lg-0(style="place-self:center;position:relative")
-        p.mb-0(data-aos="fade-up") En las empresas pequeñas y en crecimiento, la integración de la herramienta #[em WhatsApp Business] en las estrategias de #[em marketing] puede maximizar los medios de comunicación de los clientes con la marca, mejorando la experiencia mediante la automatización de #[em chatbots] con mensajes personalizados, enviar contenido valioso y mucho más. De igual forma, #[em WhatsApp Business] brinda una experiencia de compra de alta calidad, ya que por este medio la comunicación es instantánea ayudada por fotos de los productos, catálogos, videos y enlaces.
+        p.mb-0.mt-md-5(data-aos="fade-up") En las empresas pequeñas y en crecimiento, la integración de la herramienta #[em WhatsApp Business] en las estrategias de #[em marketing] puede maximizar los medios de comunicación de los clientes con la marca, mejorando la experiencia mediante la automatización de #[em chatbots] con mensajes personalizados, enviar contenido valioso y mucho más. De igual forma, #[em WhatsApp Business] brinda una experiencia de compra de alta calidad, ya que por este medio la comunicación es instantánea ayudada por fotos de los productos, catálogos, videos y enlaces.
       .col-lg-4(style="place-self:center;position:relative")
         figure
           img(src="@/assets/curso/tema2/2.svg" data-aos="fade-right")
@@ -137,4 +137,11 @@ export default {
 .slyder-a__bullets__item--active
   background-color: #00C1AB !important
   border: 0 !important
+@media screen and (max-width: 1200px)
+  .cont_2_2:before
+    width: 100%
+    height: 100%
+    background-color: #FAEBCD
+    border-bottom-right-radius: 0px
+    border-top-left-radius: 0px
 </style>

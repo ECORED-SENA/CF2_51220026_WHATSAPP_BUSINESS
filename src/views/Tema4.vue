@@ -32,14 +32,14 @@
             i.fas.fa-paper-plane
             | El conocimiento tradicional y la protección del folclor (en armonía con las disposiciones que regulan las relaciones de la Comunidad Andina de Naciones - CAN).
       .col-xl-4(style="position:relative")
-        figure
+        figure.col-lg-auto.col-6.m-auto
           img(src="@/assets/curso/tema4/2.svg" data-aos="fade-left")
 
     p.mt-5(data-aos="fade-up") La idea alcanza su verdadero valor y dimensión cuando puede ser apreciada por los demás y no antes. Existe una diferencia clara entre la propiedad intelectual y la propiedad industrial: la propiedad intelectual es individualista, personal, espiritualista; y la propiedad industrial es más comercial y se inclina a los contextos económicos.
 
     .mt-5.mb-4(style="width:fit-content;")
       .p-2(style="background-color:#FFD76A;")
-        h5.mb-0(data-aos="fade-up") Derechos intelectuales
+        h4.mb-0(data-aos="fade-up") Derechos intelectuales
 
     .row.p-3.cont_4_2.mt-5(style="position:relative;")
       .col-auto(style="place-self:center;position:relative")
@@ -74,7 +74,7 @@
 
     .mt-5.mb-5(style="width:fit-content;")
       .p-2(style="background-color:#FFD76A;")
-        h5.mb-0(data-aos="fade-up") Propiedad intelectual
+        h4.mb-0(data-aos="fade-up") Propiedad intelectual
 
     .row
       .col-lg-8.mb-4.mb-lg-0(style="place-self:center")
@@ -130,7 +130,7 @@
 
     .mt-5.mb-5(style="width:fit-content;")
       .p-2(style="background-color:#FFD76A;")
-        h5.mb-0(data-aos="fade-up") Protección de datos, ¿qué es?
+        h4.mb-0(data-aos="fade-up") Protección de datos, ¿qué es?
 
     .row
       .col-lg-8.mb-4.mb-lg-0(style="place-self:center")
@@ -141,7 +141,7 @@
 
     .mt-5.mb-5(style="width:fit-content;")
       .p-2(style="background-color:#FFD76A;")
-        h5.mb-0(data-aos="fade-up") ¿Qué son los datos personales?
+        h4.mb-0(data-aos="fade-up") ¿Qué son los datos personales?
 
     .row.mt-5.p-3(style="background: rgb(255,242,208);background: linear-gradient(90deg, rgba(255,242,208,1) 29%, rgba(255,255,255,1) 29%);")
       .col-auto(style="place-self:center")
@@ -152,16 +152,18 @@
 
     .mt-5.mb-5(style="width:fit-content;")
       .p-2(style="background-color:#FFD76A;")
-        h5.mb-0(data-aos="fade-up") Existen diferentes tipos de datos
+        h4.mb-0(data-aos="fade-up") Existen diferentes tipos de datos
 
     p(data-aos="fade-up") Se pueden establecer diferentes tipologías de datos de acuerdo con la mayor o menor categoría de aceptabilidad de la divulgación de la información, encontrando:
 
     .row.mt-5
-      .col-xl-4.mb-5.mb-lg-0
+      .col-xl-4.mb-5.col-lg.mb-xl-0
         .tarjeta.tarjeta-flip.color-acento-contenido(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img.pt-4.d-flex.justify-content-center(:style="{'background-image': `url(${require('@/assets/curso/tema4/12.png')})`}")
+            .tarjeta-flip__img.pt-4.d-flex.justify-content-center(:style="{'background-image': `url(${require('@/assets/curso/tema4/28.png')})`}")
+              figure.text-center.d-flex.justify-content-center.col-8
+                img(src="@/assets/curso/tema4/29.svg" data-aos="zoom-in-up" style="max-width:250px")
               .m-auto.text-center(style="width:fit-content;position: absolute;bottom: 20px;")
                 .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                   p.mb-0 #[strong #[em(style="color:initial;") Dato publico]]
@@ -170,11 +172,13 @@
                 .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                   p.mb-0 #[strong #[em(style="color:initial") Dato publico]]
               p.mt-5 Corresponde a un dato de interés general, ejemplo los nombres y apellidos de una persona, número de documento de identidad y documentos públicos.
-      .col-xl-4.mb-5.mb-lg-0
+      .col-xl-4.mb-5.col-lg.mb-xl-0
         .tarjeta.tarjeta-flip.color-acento-contenido(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img.pt-4.d-flex.justify-content-center(:style="{'background-image': `url(${require('@/assets/curso/tema4/13.png')})`}")
+            .tarjeta-flip__img.pt-4.d-flex.justify-content-center(:style="{'background-image': `url(${require('@/assets/curso/tema4/28.png')})`}")
+              figure.text-center.d-flex.justify-content-center.col-8
+                img(src="@/assets/curso/tema4/30.svg" data-aos="zoom-in-up" style="max-width:250px")
               .m-auto.text-center(style="width:fit-content;position: absolute;bottom: 20px;")
                 .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                   p.mb-0 #[strong #[em(style="color:initial;") Dato semi-privado]]
@@ -183,11 +187,13 @@
                 .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                   p.mb-0 #[strong #[em(style="color:initial") Dato semi-privado]]
               p.mt-5 Corresponde a un dato que no es privado, tampoco público, y su divulgación le interesa un grupo determinado de personas o grupos ejemplo, el historial crediticio de una persona.
-      .col-xl-4.mb-5.mb-lg-0
+      .col-xl-4.mb-5.col-lg.mb-xl-0
         .tarjeta.tarjeta-flip.color-acento-contenido(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img.pt-4.d-flex.justify-content-center(:style="{'background-image': `url(${require('@/assets/curso/tema4/14.png')})`}")
+            .tarjeta-flip__img.pt-4.d-flex.justify-content-center(:style="{'background-image': `url(${require('@/assets/curso/tema4/28.png')})`}")
+              figure.text-center.d-flex.justify-content-center.col-8
+                img(src="@/assets/curso/tema4/31.svg" data-aos="zoom-in-up" style="max-width:250px")
               .m-auto.text-center(style="width:fit-content;position: absolute;bottom: 20px;")
                 .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                   p.mb-0 #[strong #[em(style="color:initial;") Dato privado o íntimo]]
@@ -236,7 +242,7 @@
           img(src="@/assets/curso/tema4/18.png" data-aos="fade-left")
 
     .row.p-4.cont_4_3.mt-5(style="position:relative;")
-      .col-xl-4.mb-xl-0.mb-5(style="position:relative")
+      .col-xl-4.mb-xl-0.mb-5.col-6.m-auto(style="position:relative")
         figure
           img(src="@/assets/curso/tema4/19.svg" data-aos="fade-right")
       .col-xl-8(style="place-self:end;position:relative")
@@ -303,7 +309,7 @@
 
     .mt-5.mb-5(style="width:fit-content;")
       .p-2(style="background-color:#FFD76A;")
-        h5.mb-0(data-aos="fade-up") Aplicación de la norma
+        h4.mb-0(data-aos="fade-up") Aplicación de la norma
 
     p(data-aos="fade-up") Por ejemplo, las empresas que brindan servicios a través de internet deben justificar cómo y para qué usan y almacenan sus datos. Esto se aplica no solo a las redes sociales, sino también a las aerolíneas y otros servicios similares. Estas empresas deben informarle cómo manejar su información y aceptar su uso, sobre el procesamiento de esa información seleccionando una firma digital o marcando una casilla de verificación. 
 
@@ -392,4 +398,10 @@ export default {
   transform: translateY(-40px)
   background: rgb(0,193,171) !important
   background: linear-gradient(360deg, rgba(0,193,171,1) 80%, rgba(255,255,255,1) 80%) !important
+@media screen and (max-width: 1200px)
+  .cont_4_1:before
+    width: 100%
+    left: 0%
+    height: 100%
+    background: rgb(250,235,205) !important
 </style>

@@ -157,32 +157,32 @@
       .col-xl.col-lg-6.col-md-6.mb-xl-0.mb-5
         .p-4.h-100.pt-0(style="background-color:#FFD76A;border-radius:10px;")
           figure.d-flex.justify-content-center
-            img(src="@/assets/curso/tema1/14.svg" style="margin-top:-40px;max-width:120px;max-height:120px")
-          p.mt-5(data-aos="fade-up") #[strong #[em Specific] (específicos)]
+            img(src="@/assets/curso/tema1/14.svg" style="margin-top:-40px;max-width:100px;max-height:100px")
+          p.mt-3(data-aos="fade-up") #[strong #[em Specific] (específicos)]
           p.mt-4(data-aos="fade-up") Debe ser un indicador preciso de lo que se va a medir, dónde y cómo lo va a realizar. Se recomienda dar un detalle completo al momento de identificar la acción a medir.
       .col-xl.col-lg-6.col-md-6.mb-xl-0.mb-5
         .p-4.h-100.pt-0(style="background-color:#FAEBCD;border-radius:10px;")
           figure.d-flex.justify-content-center
-            img(src="@/assets/curso/tema1/15.svg" style="margin-top:-40px;max-width:120px;max-height:120px")
-          p.mt-5(data-aos="fade-up") #[strong #[em Measurable] (medible)]
+            img(src="@/assets/curso/tema1/15.svg" style="margin-top:-40px;max-width:100px;max-height:100px")
+          p.mt-3(data-aos="fade-up") #[strong #[em Measurable] (medible)]
           p.mt-4(data-aos="fade-up") Los indicadores deben ser medibles, deben ser objetivos para tener puntos de comparación en el tiempo.
       .col-xl.col-lg-6.col-md-6.mb-xl-0.mb-5
         .p-4.h-100.pt-0(style="background-color:#FFD76A;border-radius:10px;")
           figure.d-flex.justify-content-center
-            img(src="@/assets/curso/tema1/16.svg" style="margin-top:-40px;max-width:120px;max-height:120px")
-          p.mt-5(data-aos="fade-up") #[strong #[em Achievable] (alcanzable)]
+            img(src="@/assets/curso/tema1/16.svg" style="margin-top:-40px;max-width:100px;max-height:100px")
+          p.mt-3(data-aos="fade-up") #[strong #[em Achievable] (alcanzable)]
           p.mt-4(data-aos="fade-up") Se deben tener en cuenta los recursos con los que cuentan y que son posibles de conseguir para la empresa.
       .col-xl.col-lg-6.col-md-6.mb-xl-0.mb-5
         .p-4.h-100.pt-0(style="background-color:#FAEBCD;border-radius:10px;")
           figure.d-flex.justify-content-center
-            img(src="@/assets/curso/tema1/17.svg" style="margin-top:-40px;max-width:120px;max-height:120px")
-          p.mt-5(data-aos="fade-up") #[strong #[em Relevant] (relevante)]
+            img(src="@/assets/curso/tema1/17.svg" style="margin-top:-40px;max-width:100px;max-height:100px")
+          p.mt-3(data-aos="fade-up") #[strong #[em Relevant] (relevante)]
           p.mt-4(data-aos="fade-up") Debe ser un indicador importante para la empresa; debe ser significativo.
       .col-xl.col-lg-6.col-md-6.mb-xl-0.mb-5
         .p-4.h-100.pt-0(style="background-color:#FFD76A;border-radius:10px;")
           figure.d-flex.justify-content-center
-            img(src="@/assets/curso/tema1/18.svg" style="margin-top:-40px;max-width:120px;max-height:120px")
-          p.mt-5(data-aos="fade-up") #[strong #[em Time bound] (basado en el tiempo)]
+            img(src="@/assets/curso/tema1/18.svg" style="margin-top:-40px;max-width:100px;max-height:100px")
+          p.mt-3(data-aos="fade-up") #[strong #[em Time bound] (basado en el tiempo)]
           p.mt-4(data-aos="fade-up") Se debe establecer un tiempo de gestión para saber si se cumple o no el indicador.
 
     p.mt-5(data-aos="fade-up") Los indicadores de #[em marketing] digital, que son monitoreados, necesitan brindar información útil y precisa para la toma de decisiones. Con el fin de saber con claridad cuál es el rendimiento del equipo de #[em marketing] en todas las áreas. Al momento de realizar un seguimiento de resultados y de acuerdo con estos se podrá exigir un presupuesto adecuado para realizar nuevos estudios métricos de una organización.
@@ -208,11 +208,13 @@
     p.mt-4(data-aos="fade-up") #[strong Teniendo los conceptos claros de qué es un indicador, se mencionan algunos puntos importantes para tener en cuenta para la interpretación de datos.]
 
     .row.mt-5
-      .col-xl-3.col-lg-6.mb-5.mb-lg-0
+      .col-xl-3.col-lg-6.mb-5.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img.pt-4.d-flex.justify-content-center(:style="{'background-image': `url(${require('@/assets/curso/tema1/21.svg')})`}")
+            .tarjeta-flip__img.pt-4.d-flex.justify-content-center(:style="{'background-image': `url(${require('@/assets/curso/tema1/50.png')})`}")
+              figure.text-center.d-flex.justify-content-center.col-8
+                img(src="@/assets/curso/tema1/51.svg" data-aos="zoom-in-up" style="max-width:250px")
               .m-auto.text-center(style="width:fit-content;position: absolute;bottom: 20px;")
                 .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                   p.mb-0 #[strong #[em(style="color:initial;") Compare]]
@@ -221,11 +223,13 @@
                 .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                   p.mb-0 #[strong #[em(style="color:initial") Compare]]
               p.mt-4.mb-0 Contraste los resultados obtenidos con los objetivos formulados y objetivos que deseaba lograr; es decir, si el objetivo es aumentar el número de visitas de la app #[em WhatsApp] en 60%, lo que debe comparar es el número de seguidores actuales a el número de seguidores del mes del mes pasado.
-      .col-xl-3.col-lg-6.mb-5.mb-lg-0
+      .col-xl-3.col-lg-6.mb-5.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img.pt-4.d-flex.justify-content-center(:style="{'background-image': `url(${require('@/assets/curso/tema1/22.svg')})`}")
+            .tarjeta-flip__img.pt-4.d-flex.justify-content-center(:style="{'background-image': `url(${require('@/assets/curso/tema1/50.png')})`}")
+              figure.text-center.d-flex.justify-content-center.col-8
+                img(src="@/assets/curso/tema1/52.svg" data-aos="zoom-in-up" style="max-width:250px")
               .m-auto.text-center(style="width:fit-content;position: absolute;bottom: 20px;")
                 .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                   p.mb-0 #[strong #[em(style="color:initial;") Determine]]
@@ -234,11 +238,13 @@
                 .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                   p.mb-0 #[strong #[em(style="color:initial") Determine]]
               p.mt-4.mb-0 Tenga presente y determine las fuentes de tráfico; esto hace referencia a cómo los seguidores llegan a una web, es decir, si es por páginas pagas, redes sociales, búsqueda frecuente o por referidos, de esta forma, podrá saber qué es medio de tráfico adecuado para una próxima eventualidad o campaña y cuál le arrojará mejores resultados.
-      .col-xl-3.col-lg-6.mb-5.mb-lg-0
+      .col-xl-3.col-lg-6.mb-5.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img.pt-4.d-flex.justify-content-center(:style="{'background-image': `url(${require('@/assets/curso/tema1/23.svg')})`}")
+            .tarjeta-flip__img.pt-4.d-flex.justify-content-center(:style="{'background-image': `url(${require('@/assets/curso/tema1/50.png')})`}")
+              figure.text-center.d-flex.justify-content-center.col-8
+                img(src="@/assets/curso/tema1/53.svg" data-aos="zoom-in-up" style="max-width:250px")
               .m-auto.text-center(style="width:fit-content;position: absolute;bottom: 20px;")
                 .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                   p.mb-0 #[strong #[em(style="color:initial;") Observe]]
@@ -247,11 +253,13 @@
                 .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                   p.mb-0 #[strong #[em(style="color:initial") Observe]]
               p.mt-4.mb-0 Observe y analice la interacción del consumidor con el sitio web o publicación, pregúntese: ¿qué hacen los usuarios que visitan el sitio web? Es trascendental saberlo porque puede ver qué tan bien está funcionando su estrategia de marketing digital.
-      .col-xl-3.col-lg-6.mb-5.mb-lg-0
+      .col-xl-3.col-lg-6.mb-5.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img.pt-4.d-flex.justify-content-center(:style="{'background-image': `url(${require('@/assets/curso/tema1/24.svg')})`}")
+            .tarjeta-flip__img.pt-4.d-flex.justify-content-center(:style="{'background-image': `url(${require('@/assets/curso/tema1/50.png')})`}")
+              figure.text-center.d-flex.justify-content-center.col-8
+                img(src="@/assets/curso/tema1/54.svg" data-aos="zoom-in-up" style="max-width:250px")
               .m-auto.text-center(style="width:fit-content;position: absolute;bottom: 20px;")
                 .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                   p.mb-0 #[strong #[em(style="color:initial;") Conozca]]
@@ -275,7 +283,7 @@
           .p-3(style="background-color:#FFD76A;")
             .m-auto.text-center(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
-                h5.mb-0 El alcance orgánico
+                h4.mb-0 El alcance orgánico
           figure
             img(src="@/assets/curso/tema1/25.png" data-aos="fade-in")
           .p-4
@@ -285,7 +293,7 @@
           .p-3(style="background-color:#00C1AB;")
             .m-auto.text-center(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
-                h5.mb-0 El alcance pago
+                h4.mb-0 El alcance pago
           figure
             img(src="@/assets/curso/tema1/26.png" data-aos="fade-in")
           .p-4
@@ -384,21 +392,21 @@
       .row.m-0.col-lg-4.mb-4.mb-lg-0
         .col-auto.p-3.d-flex.align-items-center(style="background-color:#00C1AB;border-top-left-radius:10px;border-bottom-left-radius:10px;")
           figure
-            img(src="@/assets/curso/tema1/37.svg" data-aos="fade-right")
+            img(src="@/assets/curso/tema1/37.svg" data-aos="fade-right" style="max-width:60px")
         .col.p-3.d-flex.align-items-center.flex-wrap(style="background-color:#FAEBCD;border-top-right-radius:10px;border-bottom-right-radius:10px;")
           p.mb-0(data-aos="fade-up") #[strong Contenidos]
           p.mb-0(data-aos="fade-up") Qué tipo de contenidos prefieren las personas recibir.
       .row.m-0.col-lg-4.mb-4.mb-lg-0
         .col-auto.p-3.d-flex.align-items-center(style="background-color:#00C1AB;border-top-left-radius:10px;border-bottom-left-radius:10px;")
           figure
-            img(src="@/assets/curso/tema1/38.svg" data-aos="fade-right")
+            img(src="@/assets/curso/tema1/38.svg" data-aos="fade-right" style="max-width:60px")
         .col.p-3.d-flex.align-items-center.flex-wrap(style="background-color:#FAEBCD;border-top-right-radius:10px;border-bottom-right-radius:10px;")
           p.mb-0(data-aos="fade-up") #[strong Formatos]
           p.mb-0(data-aos="fade-up") Qué formatos de contenido generan más atención por parte de los usuarios.
       .row.m-0.col-lg-4.mb-4.mb-lg-0
         .col-auto.p-3.d-flex.align-items-center(style="background-color:#00C1AB;border-top-left-radius:10px;border-bottom-left-radius:10px;")
           figure
-            img(src="@/assets/curso/tema1/39.svg" data-aos="fade-right")
+            img(src="@/assets/curso/tema1/39.svg" data-aos="fade-right" style="max-width:60px")
         .col.p-3.d-flex.align-items-center.flex-wrap(style="background-color:#FAEBCD;border-top-right-radius:10px;border-bottom-right-radius:10px;")
           p.mb-0(data-aos="fade-up") #[strong Horarios]
           p.mb-0(data-aos="fade-up") En cuál horario el cliente es más receptivo para recibir publicaciones o correos electrónicos.
@@ -408,52 +416,52 @@
 
     SlyderF.mt-5(columnas="col-lg-6 col-xl-4")
       .tarjeta-avatar
-        img(src='@/assets/curso/tema1/40.svg')
+        img(src='@/assets/curso/tema1/40.svg' style="max-width:120px")
         .tarjeta.color-acento-contenido
           .p-4.text-center
             .m-auto.text-center.mt-4(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
-                h5.mb-0(data-aos="fade-up") Cortos
+                h4.mb-0(data-aos="fade-up") Cortos
             p.mt-4 Evite enviar mensajes puntuales pero educados, la mayoría de personas desea leer de forma rápida y concisa la información enviada.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema1/41.svg')
+        img(src='@/assets/curso/tema1/41.svg' style="max-width:120px")
         .tarjeta.color-acento-contenido(style="background-color:#00C1AB;")
           .p-4.text-center
             .m-auto.text-center.mt-4(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
-                h5.mb-0(data-aos="fade-up") Directos
+                h4.mb-0(data-aos="fade-up") Directos
             p.mt-4 Entregue la información necesaria, evite confundir al cliente.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema1/42.svg')
+        img(src='@/assets/curso/tema1/42.svg' style="max-width:120px")
         .tarjeta.color-acento-contenido
           .p-4.text-center
             .m-auto.text-center.mt-4(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
-                h5.mb-0(data-aos="fade-up") Claros
+                h4.mb-0(data-aos="fade-up") Claros
             p.mt-4 Haga que el mensaje sea entendible al momento de ser enviado. Léalo varias veces antes de enviarlo y revise si cumple el objetivo.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema1/43.svg')
+        img(src='@/assets/curso/tema1/43.svg' style="max-width:120px")
         .tarjeta.color-acento-contenido(style="background-color:#00C1AB;")
           .p-4.text-center
             .m-auto.text-center.mt-4(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
-                h5.mb-0(data-aos="fade-up") Relevantes
+                h4.mb-0(data-aos="fade-up") Relevantes
             p.mt-4 Enfóquese en el interés del público objetivo, no en temas personales ni comerciales.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema1/44.svg')
+        img(src='@/assets/curso/tema1/44.svg' style="max-width:120px")
         .tarjeta.color-acento-contenido
           .p-4.text-center
             .m-auto.text-center.mt-4(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
-                h5.mb-0(data-aos="fade-up") Compactos
+                h4.mb-0(data-aos="fade-up") Compactos
             p.mt-4 Al momento de enviar el mensaje procure que este contenga toda la información necesaria y no sea por partes. 
       .tarjeta-avatar
-        img(src='@/assets/curso/tema1/45.svg')
+        img(src='@/assets/curso/tema1/45.svg' style="max-width:120px")
         .tarjeta.color-acento-contenido(style="background-color:#00C1AB;")
           .p-4.text-center
             .m-auto.text-center.mt-4(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
-                h5.mb-0(data-aos="fade-up") Multimedia
+                h4.mb-0(data-aos="fade-up") Multimedia
             p.mt-4 Las personas preferimos información visual y audiovisual, incluya una imagen o algo que haga llamativo el mensaje junto con un llamado a la acción.
 
     p.mt-5(data-aos="fade-up") Si se maneja un contenido adecuado e interesante podría facilitar que el material compartido sea viralizado de forma rápida y continua por parte del #[em target], esto permitirá un alto porcentaje de seguidores y potenciales clientes. Por ello, se debe:
@@ -567,4 +575,19 @@ export default {
   border-bottom: 0
 .tabs-b.color-acento-contenido .tabs-b__tab--active
   border-right: 0
+@media screen and (max-width: 1200px)
+  .cont_1_1:before
+    width: 100%
+    height: 100%
+    bottom: 0
+    background-color: #FAEBCD
+    border-bottom-right-radius: 0px
+    border-top-left-radius: 0px
+  .cont_1_2:before
+    width: 100%
+    height: 100%
+    bottom: 0
+    background-color: #A6E9E2
+    border-bottom-right-radius: 0px
+    border-top-left-radius: 0px
 </style>
