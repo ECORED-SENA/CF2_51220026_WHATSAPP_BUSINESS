@@ -16,7 +16,7 @@
         p.mt-4(data-aos="fade-up") Existen diferencias notables entre la propiedad industrial y la propiedad intelectual: en la propiedad intelectual la finalidad es mucho más individualista, más personal, más espiritualista; en la industrial es más comercial, más de contenido económico.
 
     .row.ps-4.pe-4.pt-4.cont_4_1.pb-4(style="position:relative;")
-      .col-xl-8.mb-xl-0.mb-5(style="place-self:end;position:relative")
+      .col-xl-8.mb-xl-0.mb-4(style="place-self:end;position:relative")
         p(data-aos="fade-up") #[strong La propiedad intelectual comprende:]
         ul.lista-ul.mt-4
           li(data-aos="fade-up")
@@ -32,7 +32,7 @@
             i.fas.fa-paper-plane
             | El conocimiento tradicional y la protección del folclor (en armonía con las disposiciones que regulan las relaciones de la Comunidad Andina de Naciones - CAN).
       .col-xl-4(style="position:relative")
-        figure.col-lg-auto.col-6.m-auto
+        figure.col-lg-7.col-md-10.col-10.m-auto.col-xl-auto
           img(src="@/assets/curso/tema4/2.svg" data-aos="fade-left")
 
     p.mt-5(data-aos="fade-up") La idea alcanza su verdadero valor y dimensión cuando puede ser apreciada por los demás y no antes. Existe una diferencia clara entre la propiedad intelectual y la propiedad industrial: la propiedad intelectual es individualista, personal, espiritualista; y la propiedad industrial es más comercial y se inclina a los contextos económicos.

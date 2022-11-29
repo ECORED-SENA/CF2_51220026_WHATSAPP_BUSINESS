@@ -55,7 +55,7 @@
         p(data-aos="fade-up") Las estadísticas web son herramientas importantes para los proyectos digitales, puesto que ayudan a comprender cómo se comportan los usuarios y los motores de búsqueda. Las herramientas de análisis web son imprescindibles para que cualquier sitio web rastree y analice el seguimiento del tráfico. 
         p.mt-4(data-aos="fade-up") La terminología o definición de analítica web se refiere al área de #[em marketing] en línea encargada de extraer e investigar información relevante sobre el estado y desarrollo de los proyectos en línea para que siempre puedan tomar las decisiones correctas y evaluar su éxito, esta regla se puede aplicar a un sin número de escenarios digitales, #[em e-commerce], páginas web, blogs, foro entre otros. Además, se debe tener en cuenta el siguiente concepto.
 
-    .row.col-lg-10.m-auto.mt-5.cont_1_2.pt-5.pb-5.ps-5(style="position:relative;")
+    .row.col-lg-10.m-auto.mt-5.cont_1_2.pt-5.pb-5.ps-lg-5(style="position:relative;")
       .col-lg-8.mb-4.mb-lg-0(style="place-self:center;position:relative")
         p.mb-0(data-aos="fade-up") #[strong ¿Qué es analítica web?]
         p.mt-4.mb-0(data-aos="fade-up") Hace referencia a extraer y analizar información por intermedio de herramientas de análisis para tomar decisiones y determinar conclusiones, para realizar este tipo de análisis es importante saber qué tipo de información se va a analizar, cual es objetivo de esta y que necesidad busca satisfacer. #[br] Las variables que se miden y analizan se denominan KPI o indicadores clave de desempeño (#[em Key Performance Indicators] en inglés), estos representan diversos aspectos que directa o indirectamente inciden en el correcto funcionamiento de las estrategias y acciones implementadas.
@@ -225,7 +225,6 @@
               p.mt-4.mb-0 Contraste los resultados obtenidos con los objetivos formulados y objetivos que deseaba lograr; es decir, si el objetivo es aumentar el número de visitas de la app #[em WhatsApp] en 60%, lo que debe comparar es el número de seguidores actuales a el número de seguidores del mes del mes pasado.
       .col-xl-3.col-lg-6.mb-5.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
-          .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img.pt-4.d-flex.justify-content-center(:style="{'background-image': `url(${require('@/assets/curso/tema1/50.png')})`}")
               figure.text-center.d-flex.justify-content-center.col-8
@@ -240,7 +239,6 @@
               p.mt-4.mb-0 Tenga presente y determine las fuentes de tráfico; esto hace referencia a cómo los seguidores llegan a una web, es decir, si es por páginas pagas, redes sociales, búsqueda frecuente o por referidos, de esta forma, podrá saber qué es medio de tráfico adecuado para una próxima eventualidad o campaña y cuál le arrojará mejores resultados.
       .col-xl-3.col-lg-6.mb-5.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
-          .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img.pt-4.d-flex.justify-content-center(:style="{'background-image': `url(${require('@/assets/curso/tema1/50.png')})`}")
               figure.text-center.d-flex.justify-content-center.col-8
@@ -255,7 +253,6 @@
               p.mt-4.mb-0 Observe y analice la interacción del consumidor con el sitio web o publicación, pregúntese: ¿qué hacen los usuarios que visitan el sitio web? Es trascendental saberlo porque puede ver qué tan bien está funcionando su estrategia de marketing digital.
       .col-xl-3.col-lg-6.mb-5.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
-          .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img.pt-4.d-flex.justify-content-center(:style="{'background-image': `url(${require('@/assets/curso/tema1/50.png')})`}")
               figure.text-center.d-flex.justify-content-center.col-8
@@ -418,48 +415,48 @@
       .tarjeta-avatar
         img(src='@/assets/curso/tema1/40.svg' style="max-width:120px")
         .tarjeta.color-acento-contenido
-          .p-4.text-center
-            .m-auto.text-center.mt-4(style="width:fit-content;")
+          .p-4.text-center.pt-2
+            .m-auto.text-center(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                 h4.mb-0(data-aos="fade-up") Cortos
             p.mt-4 Evite enviar mensajes puntuales pero educados, la mayoría de personas desea leer de forma rápida y concisa la información enviada.
       .tarjeta-avatar
         img(src='@/assets/curso/tema1/41.svg' style="max-width:120px")
         .tarjeta.color-acento-contenido(style="background-color:#00C1AB;")
-          .p-4.text-center
-            .m-auto.text-center.mt-4(style="width:fit-content;")
+          .p-4.text-center.pt-2
+            .m-auto.text-center(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                 h4.mb-0(data-aos="fade-up") Directos
             p.mt-4 Entregue la información necesaria, evite confundir al cliente.
       .tarjeta-avatar
         img(src='@/assets/curso/tema1/42.svg' style="max-width:120px")
         .tarjeta.color-acento-contenido
-          .p-4.text-center
-            .m-auto.text-center.mt-4(style="width:fit-content;")
+          .p-4.text-center.pt-2
+            .m-auto.text-center(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                 h4.mb-0(data-aos="fade-up") Claros
             p.mt-4 Haga que el mensaje sea entendible al momento de ser enviado. Léalo varias veces antes de enviarlo y revise si cumple el objetivo.
       .tarjeta-avatar
         img(src='@/assets/curso/tema1/43.svg' style="max-width:120px")
         .tarjeta.color-acento-contenido(style="background-color:#00C1AB;")
-          .p-4.text-center
-            .m-auto.text-center.mt-4(style="width:fit-content;")
+          .p-4.text-center.pt-2
+            .m-auto.text-center(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                 h4.mb-0(data-aos="fade-up") Relevantes
             p.mt-4 Enfóquese en el interés del público objetivo, no en temas personales ni comerciales.
       .tarjeta-avatar
         img(src='@/assets/curso/tema1/44.svg' style="max-width:120px")
         .tarjeta.color-acento-contenido
-          .p-4.text-center
-            .m-auto.text-center.mt-4(style="width:fit-content;")
+          .p-4.text-center.pt-2
+            .m-auto.text-center(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                 h4.mb-0(data-aos="fade-up") Compactos
             p.mt-4 Al momento de enviar el mensaje procure que este contenga toda la información necesaria y no sea por partes. 
       .tarjeta-avatar
         img(src='@/assets/curso/tema1/45.svg' style="max-width:120px")
         .tarjeta.color-acento-contenido(style="background-color:#00C1AB;")
-          .p-4.text-center
-            .m-auto.text-center.mt-4(style="width:fit-content;")
+          .p-4.text-center.pt-2
+            .m-auto.text-center(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                 h4.mb-0(data-aos="fade-up") Multimedia
             p.mt-4 Las personas preferimos información visual y audiovisual, incluya una imagen o algo que haga llamativo el mensaje junto con un llamado a la acción.
