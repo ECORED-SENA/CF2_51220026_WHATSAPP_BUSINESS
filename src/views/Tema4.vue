@@ -148,7 +148,7 @@
         figure
           img(src="@/assets/curso/tema4/11.svg" data-aos="fade-right")
       .col(style="place-self:center")
-        p.mb-0(data-aos="fade-up") Estos la conforman por toda aquella información que hable de una persona y que pueda permitir su identificación, lugar de nacimiento, fecha de nacimiento, edad, lugar de residencia, estado civil, número de identificación, nacionalidad, religión entre otros.
+        p.mb-0(data-aos="fade-up") Estos la conforman por toda aquella información que hable de una persona y que pueda permitir su identificación, lugar de nacimiento, fecha de nacimiento, edad, lugar de residencia, estado civil, número de identificación, nacionalidad, religión, entre otros.
 
     .mt-5.mb-5(style="width:fit-content;")
       .p-2(style="background-color:#FFD76A;")
@@ -290,7 +290,7 @@
           h3.text-center.mb-0(data-aos="fade-up") ¿Qué tipo de obras protege el derecho de autor?
         .col-lg-8
           .bloque-texto-a__texto.p-5
-            p.mb-0(data-aos="fade-up") Literatura, música, teatro, danza, pintura u obra gráfica, escultura, caricatura e historieta, arquitectura, obra cinematográfica y audiovisual, programas de radio y televisión, programas de diseño, fotografía, artes aplicadas (gráficas o) con o sin texto, diseño textil), trabajo de edición.
+            p.mb-0(data-aos="fade-up") Literatura, música, teatro, danza, pintura u obra gráfica, escultura, caricatura e historieta, arquitectura, obra cinematográfica y audiovisual, programas de radio y televisión, programas de diseño, fotografía, artes aplicadas (gráficas o) con o sin texto, diseño textil, trabajo de edición.
 
 
     Separador.mt-5
@@ -303,7 +303,7 @@
         figure
           img(src="@/assets/curso/tema4/25.png" data-aos="fade-right")
       .col-lg-8(style="place-self:center")
-        p(data-aos="fade-up") La recopilación y obtención de datos personales es primordial para cualquier tipo de empresa o instituciones sin importar su oficio. No es sorprendente que la Big Data está marcando la diferencia en el entorno de la economía digital. Por lo tanto, es muy importante saber qué se debe realizar para crear una base de datos legalmente y que esta pueda ser tratada de la forma adecuada en un entorno económico, empresarial, para pymes entre otros. 
+        p(data-aos="fade-up") La recopilación y obtención de datos personales es primordial para cualquier tipo de empresa o instituciones sin importar su oficio. No es sorprendente que la #[em Big Data] está marcando la diferencia en el entorno de la economía digital. Por lo tanto, es muy importante saber qué se debe realizar para crear una base de datos legalmente y que esta pueda ser tratada de la forma adecuada en un entorno económico, empresarial, para pymes entre otros. 
         p.mt-4(data-aos="fade-up") #[strong La información en Colombia está protegida por la Ley 1581 de 2012 y la Ley 1377 de 2013 que se aplica a los datos personales almacenados en bases de datos y es susceptible de manejo por parte de instituciones públicas o privadas en el territorio colombiano.]
         p.mt-4(data-aos="fade-up") Para adquirir y utilizar legalmente la base de datos, debe cumplir con el Reglamento Europeo de Protección de Datos (RGPD, 2018). Sus características tienen cierto impacto en el territorio de Colombia, ya que involucra tanto a personas naturales como jurídicas en contacto con organizaciones y empresas, y a ciudadanos de la UE que prestan servicios o tienen instalaciones en la zona. Este reglamento garantiza un alto nivel de protección, lo que significa que las personas tendrán más control sobre sus datos personales y las normas de protección de datos serán coherentes en los países de la Unión Europea. Las empresas que hacen negocios en esta región deben cumplir con esta regla dondequiera que estén.
 

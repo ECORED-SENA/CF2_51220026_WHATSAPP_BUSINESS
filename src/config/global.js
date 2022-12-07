@@ -229,7 +229,7 @@ export default {
     {
       termino: 'APP',
       significado:
-        'herramientas de <em>software</em> escritas en distintos lenguajes de programación (según el desarrollador que la programe) para teléfonos inteligentes -o smartphones- y tablets. Se caracterizan por ser útiles, dinámicas y fáciles de instalar y manejar.',
+        'herramientas de <em>software</em> escritas en distintos lenguajes de programación (según el desarrollador que la programe) para teléfonos inteligentes -o <em>smartphones- y tablets</em>. Se caracterizan por ser útiles, dinámicas y fáciles de instalar y manejar.',
     },
     {
       termino: 'Bases de datos',
@@ -237,7 +237,7 @@ export default {
         'recopilación organizada de información o datos estructurados, que normalmente se almacena de forma electrónica en un sistema informático.',
     },
     {
-      termino: 'Big data',
+      termino: '<em>Big data</em>',
       significado:
         'conjunto de tecnologías que han sido creadas para recopilar, analizar y gestionar los datos que generan los usuarios de Internet.',
     },
@@ -289,7 +289,7 @@ export default {
     {
       termino: '<em>Target</em>',
       significado:
-        'concepto que tiene suma importancia dentro del área del <em>marketing</em> y la comunicación. Se tiene en cuenta dentro de los más diversos procedimientos. Por ejemplo, cuando se lleva a cabo la puesta en marcha de un proyecto se define el target al que va dirigido, sus servicios o productos, así como cuando se hace un estudio de mercado, un plan de <em>marketing</em> o un plan de negocio.',
+        'concepto que tiene suma importancia dentro del área del <em>marketing</em> y la comunicación. Se tiene en cuenta dentro de los más diversos procedimientos. Por ejemplo, cuando se lleva a cabo la puesta en marcha de un proyecto se define el <em>target</em> al que va dirigido, sus servicios o productos, así como cuando se hace un estudio de mercado, un plan de <em>marketing</em> o un plan de negocio.',
     },
     {
       termino: 'Normatividad',

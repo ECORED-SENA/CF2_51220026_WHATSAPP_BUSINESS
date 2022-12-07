@@ -24,6 +24,12 @@
         figure
           img(src="@/assets/curso/tema1/2.png" data-aos="fade-left")
 
+    p.mt-5(data-aos="fade-up") #[strong Métricas Base]
+
+    figure.mt-4
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/erqmchxWXLA" title="Métricas WhatsApp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     Separador.mt-5
 
     .titulo-segundo
@@ -36,11 +42,11 @@
       .col(style="place-self:center")
         p.mb-0(data-aos="fade-up") La medición de indicadores en #[em WhatsApp Business] es una tarea sencilla al alcance de cualquier persona, puesto que no se requiere salir de la aplicación, esto permite la interacción con cada uno de los clientes con el fin de promocionar diferentes productos de acuerdo con el nicho de mercado al cual este encaminado un negocio. En el siguiente recurso se puede dar cuenta de cuáles son los indicadores que marcan el cambio de la aplicación tradicional a la empresarial.
 
-    p.mt-5(data-aos="fade-up") #[strong Métricas Base]
+    p.mt-5(data-aos="fade-up") #[strong Envíos]
 
     figure.mt-4
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/erqmchxWXLA" title="Métricas WhatsApp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/mITU5gSR1-g" title="Envíos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     Separador.mt-5
 
@@ -151,7 +157,7 @@
         p(data-aos="fade-up") Para comprender a qué hace referencia, el primer paso es conocer qué es la publicidad digital en el contexto de #[em marketing]. La publicidad digital se enfoca en direccionar acciones o técnicas de #[em marketing] dirigidas a captar la atención de un usuario, las cuales se realizan gracias a canales digitales que presentan los indicadores de gestión con los cuales se puede evidenciar si la estrategia planteada está cumpliendo o no su objetivo.
         p.mt-4(data-aos="fade-up") Ahora, se verá cuán importantes son los indicadores para el plan de #[em marketing] digital. Los indicadores, también conocidos como indicadores clave de rendimiento (KPI) que se revisan a continuación, permiten monitorear constantemente cada una de las operaciones realizadas como parte de una campaña publicitaria.
         p.mt-4(data-aos="fade-up") #[strong(style="background-color:#FFD76A;padding:.2rem;") El indicador es un conjunto de métricas que se encargan de cuantificar los rendimientos de una operación.]
-        p.mt-4(data-aos="fade-up") Es muy importante seleccionar los indicadores correctos para las mediciones, para esta tarea se recomienda trabajar con indicadores de tipo Smart que se caracterizan por los siguiente:
+        p.mt-4(data-aos="fade-up") Es muy importante seleccionar los indicadores correctos para las mediciones, para esta tarea se recomienda trabajar con indicadores de tipo Smart que se caracterizan por lo siguiente:
 
     .row.mt-5.m-auto.justify-content-center
       .col-xl.col-lg-6.col-md-6.mb-xl-0.mb-5
@@ -222,7 +228,7 @@
               .m-auto.text-center.mt-4(style="width:fit-content;")
                 .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
                   p.mb-0 #[strong #[em(style="color:initial") Compare]]
-              p.mt-4.mb-0 Contraste los resultados obtenidos con los objetivos formulados y objetivos que deseaba lograr; es decir, si el objetivo es aumentar el número de visitas de la app #[em WhatsApp] en 60%, lo que debe comparar es el número de seguidores actuales a el número de seguidores del mes del mes pasado.
+              p.mt-4.mb-0 Contraste los resultados obtenidos con los objetivos formulados y objetivos que deseaba lograr; es decir, si el objetivo es aumentar el número de visitas de la app #[em WhatsApp] en 60%, lo que debe comparar es el número de seguidores actuales a el número de seguidores del mes pasado.
       .col-xl-3.col-lg-6.mb-5.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
